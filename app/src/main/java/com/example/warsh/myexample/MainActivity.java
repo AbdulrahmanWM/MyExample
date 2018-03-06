@@ -10,5 +10,9 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
-    public void abdMethod(){return;}
+    public void abdMethod(){
+        //LALALA
+        return;
+        //LALALA
+    }
 }
